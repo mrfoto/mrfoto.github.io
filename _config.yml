@@ -2,18 +2,19 @@
 
 title: Miha Rekar
 locale: en_US
-url:
-
+url: //mrfoto.github.io/mr.si
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
 gems:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 kramdown:
@@ -23,38 +24,27 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
+  name: Miha Rekar
+  avatar: miha-rekar.jpg
+  email: miha.rekar@gmail.com
+  disqus-shortname: miharekar
   twitter: mr_foto
-  facebook: #username
+  facebook: rekar
   google:
-    plus: #username
-    analytics:
+    analytics: UA-356422-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+  github: mrfoto
+  stackoverflow: 527840/miha-rekar
+  linkedin: mrfoto
+  instagram: mr_foto
+  foursquare: mr_foto
+  youtube: miharek
+  soundcloud: mr-foto
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

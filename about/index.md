@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About Me
+tags: [about, miha rekar]
 comments: true
 image:
   feature: sample-image-2.jpg
@@ -10,16 +9,6 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I used to be a PHP Developer. Than I saw the light at the end of the tunnel and that light was **Ruby**. I wanted to share this revelation so I started [Slovenia Ruby User Group](http://www.rug.si/). When I'm not programming or organizing I like to take photos[^1] and run. Not necessarily together.
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+[^1]: The photo blog that used to be here has been moved to [b.mr.si](http://b.mr.si/). It's old but there are still some nice pictures (and stories if you understand Slovene) you might enjoy.
