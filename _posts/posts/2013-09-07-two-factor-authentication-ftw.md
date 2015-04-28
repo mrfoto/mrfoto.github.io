@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: Two-Factor Authentication FTW
 excerpt: You know you should use it!
 tags: [security, mfa, authentication, two factor, two step, multi factor, tfa, 2fa]

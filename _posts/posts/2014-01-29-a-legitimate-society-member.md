@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: A Legitimate Society Member
 excerpt: I was a guest on the Apparatus podcast.
 tags: [apparatus, podcast]

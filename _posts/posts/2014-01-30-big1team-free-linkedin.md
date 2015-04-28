@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: Big1Team Free LinkedIn
 excerpt: You should delete them from your connections.
 tags: [big1team, linkedin, spam]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: Include Files from Gem into Asset Pipeline
 excerpt: Sometimes Asset Pipeline doesn't want to play with you.
 tags: [ruby, rails, gems, pipeline, precompile, precompilation, asset pipeline, svg, sprockets, assets]

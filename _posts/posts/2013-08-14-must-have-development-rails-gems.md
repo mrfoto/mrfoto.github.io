@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: Must Have Development Rails Gems
 excerpt: Can't even develop straight without this pearls.
 tags: [ruby, rails, gems]
