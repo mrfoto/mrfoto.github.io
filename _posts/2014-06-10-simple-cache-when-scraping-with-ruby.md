@@ -5,7 +5,7 @@ excerpt: Use VCR in your scraping development workflow.
 tags: [ruby, rails, scraping, cache, scrape, cassette, vcr]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

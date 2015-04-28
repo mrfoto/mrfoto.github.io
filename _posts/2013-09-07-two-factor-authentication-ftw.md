@@ -5,7 +5,7 @@ excerpt: You know you should use it!
 tags: [security, mfa, authentication, two factor, two step, multi factor, tfa, 2fa]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

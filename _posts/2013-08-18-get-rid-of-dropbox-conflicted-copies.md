@@ -5,7 +5,7 @@ excerpt: They can be such a pain in the ass.
 tags: [dropbox, conflicted, conflicts]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

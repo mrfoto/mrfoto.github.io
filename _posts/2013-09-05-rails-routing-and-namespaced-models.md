@@ -5,7 +5,7 @@ excerpt: Namespaces can bite you but they're still nice.
 tags: [ruby, rails, routing, routes, namespace, module, relative model naming, naming]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: sample-image-3.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

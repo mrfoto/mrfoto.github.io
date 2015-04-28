@@ -5,7 +5,7 @@ excerpt: Can't even develop straight without this pearls.
 tags: [ruby, rails, gems]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
