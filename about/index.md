@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-tags: [about, miha rekar]
-comments: true
+tags: [about, miha rekar, photos]
+share: false
 image:
   feature: features/nicky-romero.jpg
   credit: Miha Rekar - Nicky Romero @ Ultra 2014
