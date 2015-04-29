@@ -5,10 +5,6 @@ title: Must Have Development Rails Gems
 excerpt: Can't even develop straight without this pearls.
 tags: [ruby, rails, gems]
 comments: true
-image:
-  feature: features/sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 #TL;DR

@@ -5,10 +5,6 @@ title: FooBar Rant
 excerpt: I hate FooBar examples. There, I've said it.
 tags: [development, programming, examples, foobar, learning, rant]
 comments: true
-image:
-  feature: features/sample-image-6.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 **I hate `foobar` examples.** There, I've finally said it.

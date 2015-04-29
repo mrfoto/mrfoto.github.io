@@ -5,10 +5,6 @@ title: Weaving a RUG
 excerpt: What is Neo4j and why should you use it.
 tags: [ruby, thrift, micro services, twofishes, geocoder]
 comments: true
-image:
-  feature: features/sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 A lightning talk I gave at [ArrrrCamp 2014](http://2014.arrrrcamp.be/) on how to build a user group on my example of building the [Slovenia Ruby User Group](http://www.rug.si/).

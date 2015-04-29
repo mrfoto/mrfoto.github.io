@@ -5,10 +5,6 @@ title: A Brief Word About Thrift
 excerpt: What is Thrift and how did I use it with Twofishes.
 tags: [ruby, thrift, micro services, twofishes, geocoder]
 comments: true
-image:
-  feature: features/sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Short tech talk I did for my coworkers on Apache Thrift and then later at my local [Ruby User Group](http://www.rug.si/2015/03/10/february-meetup-recap/).

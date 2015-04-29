@@ -5,10 +5,6 @@ title: Two-Factor Authentication FTW
 excerpt: You know you should use it!
 tags: [security, mfa, authentication, two factor, two step, multi factor, tfa, 2fa]
 comments: true
-image:
-  feature: features/sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 We all know what it is and we all should use it. Oh, and [GitHub supports it now too](https://github.com/blog/1614-two-factor-authentication). The problem is the de-facto app used for TFA - Google Authenticator. This thing is so bad that even Google doesn't trust it:

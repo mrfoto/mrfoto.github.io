@@ -5,10 +5,6 @@ title: Get Rid of Dropbox Conflicted Copies
 excerpt: They can be such a pain in the ass.
 tags: [dropbox, conflicted, conflicts]
 comments: true
-image:
-  feature: features/sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 If you are like me and have multiple computers with spotty internet connection this happens all the time.

@@ -5,10 +5,6 @@ title: Simple Cache When Scraping With Ruby
 excerpt: Use VCR in your scraping development workflow.
 tags: [ruby, rails, scraping, cache, scrape, cassette, vcr]
 comments: true
-image:
-  feature: features/sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 I'm scraping a bunch of websites lately and got bored with using `File.write` to store cached versions of websites. Because I'm still developing the script I don't want it to hit the real website every time. So simple way to fix that is with the [vcr gem](https://github.com/vcr/vcr). While made primarily for testing you can also use it for this kind of tasks.

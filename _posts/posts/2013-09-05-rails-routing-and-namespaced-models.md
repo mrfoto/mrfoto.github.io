@@ -5,10 +5,6 @@ title: Rails Routing and Namespaced Models
 excerpt: Namespaces can bite you but they're still nice.
 tags: [ruby, rails, routing, routes, namespace, module, relative model naming, naming]
 comments: true
-image:
-  feature: features/sample-image-3.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 If you're like me, you like code neatly organized in folders. With Rails we can simply do that with module namespaces. So lets say we have generated a scaffold `Projects::Document`. Now when using `url_for` or `form_for` or any other path|url helper Rails would return the namespace in the route name like so: `projects_documents_path`.

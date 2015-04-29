@@ -5,10 +5,6 @@ title: A Legitimate Society Member
 excerpt: I was a guest on the Apparatus podcast.
 tags: [apparatus, podcast]
 comments: true
-image:
-  feature: features/sample-image-7.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 I was recently a guest in the [Apparatus podcast](http://apparatus.si/). Apparatus is self described as a podcast where legitimate society members share what they are doing in life. It was/is a huge honor for me so I'm sharing this with you. The podcast itself is unfortunately in slovene.

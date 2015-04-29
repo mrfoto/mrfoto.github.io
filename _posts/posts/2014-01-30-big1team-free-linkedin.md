@@ -5,10 +5,6 @@ title: Big1Team Free LinkedIn
 excerpt: You should delete them from your connections.
 tags: [big1team, linkedin, spam]
 comments: true
-image:
-  feature: features/sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 # TL;DR

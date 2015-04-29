@@ -5,10 +5,6 @@ title: Neo4j WTF Is This Hipster Graph Thingy?
 excerpt: What is Neo4j and why should you use it.
 tags: [ruby, neo4j, graph, databases, hipster]
 comments: true
-image:
-  feature: features/sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 A short presentation I did at [Slovenia Ruby User Group November meetup](http://www.rug.si/2014/11/28/november-meetup-recap/) and at [WebCamp Ljubljana 2015](http://2015.webcamp.si/).
