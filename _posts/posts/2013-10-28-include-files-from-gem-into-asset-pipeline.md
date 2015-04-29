@@ -6,7 +6,7 @@ excerpt: Sometimes Asset Pipeline doesn't want to play with you.
 tags: [ruby, rails, gems, pipeline, precompile, precompilation, asset pipeline, svg, sprockets, assets]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: features/sample-image-5.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

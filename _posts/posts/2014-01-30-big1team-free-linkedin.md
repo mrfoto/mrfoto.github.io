@@ -6,7 +6,7 @@ excerpt: You should delete them from your connections.
 tags: [big1team, linkedin, spam]
 comments: true
 image:
-  feature: sample-image-1.jpg
+  feature: features/sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

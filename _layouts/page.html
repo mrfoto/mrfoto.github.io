@@ -19,11 +19,11 @@
     {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+      "/images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    <span class="image-credit">Photo: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
@@ -53,7 +53,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
+{% include _scripts.html %}
 
 </body>
 </html>

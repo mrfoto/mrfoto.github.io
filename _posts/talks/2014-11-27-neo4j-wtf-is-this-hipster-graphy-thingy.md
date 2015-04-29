@@ -6,7 +6,7 @@ excerpt: What is Neo4j and why should you use it.
 tags: [ruby, neo4j, graph, databases, hipster]
 comments: true
 image:
-  feature: sample-image-1.jpg
+  feature: features/sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

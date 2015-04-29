@@ -6,7 +6,7 @@ excerpt: I was a guest on the Apparatus podcast.
 tags: [apparatus, podcast]
 comments: true
 image:
-  feature: sample-image-7.jpg
+  feature: features/sample-image-7.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
