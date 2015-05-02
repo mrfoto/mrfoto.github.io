@@ -6,7 +6,7 @@ url: http://mr.si
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 sass:
   sass_dir: _sass
