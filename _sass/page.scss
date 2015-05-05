@@ -273,6 +273,9 @@ $button-size: 1.5rem;
 				margin-bottom: 0px + $doc-line-height;
 				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
 			}
+			i {
+				font-size: 0.8em;
+			}
 		}
 		p {
 			@include font-rem(14);
