@@ -40,9 +40,9 @@
         {% if post.link %}
         <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i>
         {% elsif post.category == 'talks' %}
-        <i class="fa fa-comment"></i>
+        <i class="fa fa-video-camera" title="Talks"></i>
         {% elsif post.category == 'posts' %}
-        <i class="fa fa-align-left"></i>
+        <i class="fa fa-align-left" title="Posts"></i>
         {% endif %}
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
