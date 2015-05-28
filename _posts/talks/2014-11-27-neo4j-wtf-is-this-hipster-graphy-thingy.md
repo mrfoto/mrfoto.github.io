@@ -16,7 +16,7 @@ A short presentation I did at [Slovenia Ruby User Group November meetup](http://
 
 ## Slides:
 
-<script async class="speakerdeck-embed" data-id="536e6090305d013297af32228b43df58" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="fe2975a059180132e57a7677aa2dd66a" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## More good things on neo4j:
 
