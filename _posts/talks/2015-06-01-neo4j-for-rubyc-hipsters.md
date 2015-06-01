@@ -1,0 +1,38 @@
+---
+layout: post
+category: talks
+title: Neo4j for RubyC Hipsters
+excerpt: The first proper conference talk I did. An updated and improved version of the other Neo4j hipster talk. And some words on RubyC and Kiev.
+tags: [ruby, rubyc, kiev, ukraine, neo4j, graph, databases, hipster]
+comments: true
+---
+
+After sending more or less the same proposal to a bunch of conferences I found on [rubyconferences.org](http://rubyconferences.org/) one actually got accepted by [RubyC](http://rubyc.eu/). I was sort of surprised but that meant I'll be going to Ukraine for the first time so I was really looking forward to that. The day came and I gave the talk and now came home and I just can't get over how awesome everything was.
+
+The speaker lineup was great - and since now I was one of them it meant that I got to hang out with the coolest people ever all the time. Their talks were great as well - my new boss @bbatsov did a talk on the bad parts of Ruby and what we can do to fix them ([slides](https://speakerdeck.com/bbatsov/ruby-the-bad-parts)), @sferik blew everyone away with [Crystal](http://crystal-lang.org/), @juliancheal made everyone want to get and hack on new *internetofthings* toys, @ahoward made us all feel bad about what we're doing (but in a good way), and @benlovell did the best closing talk possible.
+
+There were some weird talks as well - with English slides but in Ukranian (Russian? idk). I had no idea what they were about which is sad, because slides looked interesting. Organizers should have forced them to speak English, like we do at @RubySlovenia lately. A talk done in bad English has a **much** wider audience than a talk done in a local language (unless your local language *is* English).
+
+Kiev (Kyiv) was awesome as well. And sooo cheap. *Really*. The metro though - I have to rip Ben off - it's in the damn core of the Earth. Seriously. I am **NOT** joking. [Check it out](https://www.youtube.com/watch?v=BabVvt0AC7M). Those escalators go at like twice the speed of regular ones, yet it still takes this guy almost 5 minutes to get out. **Insane**.
+
+Onwards to my talk. There are slides below, and video will be up too I guess. I'll update the post when I see it posted. Anyway, I talked about Neo4j and then shown some examples of Cypher via the web UI. First I used the [classic movie db](http://neo4j.com/developer/example-data/) to show how nodes, relationships, and properties actually look/work. They were totally blown away when I double clicked on an actor node and movies and relationships just popped up. After that I presented the [neo4hub](https://github.com/mrfoto/neo4hub) "project" which is more or less just an importer of data from GitHub API to my Neo4j models. We did some cool queries on that, but I have a hard time remembering them. There are some cool examples in the repo so if you're interested go ahead and clone the repo, import data and click around.
+
+Judging by the response I got during and especially after the talk (both immediately and later at afterparties) there will be a lot of Ukrainian developers trying out Neo4j. At least for their hobby projects so they get a grip on it. That was my advice actually. By the way - so should **you**. Give Neo4j a try.
+
+Anyway, thanks again to RubyC organizers for letting me do a talk. I had a blast.
+
+## Video:
+
+*Not available yet*
+
+## Slides:
+
+<script async class="speakerdeck-embed" data-id="8e1e9e584f674c7887e42477aea1018d" src="//speakerdeck.com/assets/embed.js"></script>
+
+## More good things on neo4j:
+
+- [Neo4j Official Site](http://neo4j.com/)
+- [Neo4j meets Ruby](http://www.neo4j-ruby.org/)
+- [New Neo4jrb documentation](http://neo4jrb.readthedocs.org/en/latest/)
+- [Introduction to Graph Databases](https://www.airpair.com/neo4j/introduction-graph-databases)
+- [Embracing Reality with Neo4j](http://nosqlasia.org/blog/embracing-reality-with-neo4j)
