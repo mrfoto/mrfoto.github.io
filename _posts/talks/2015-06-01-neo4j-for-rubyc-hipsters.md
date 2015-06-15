@@ -15,15 +15,14 @@ There were some weird talks as well - with English slides but in Ukrainian (Russ
 
 Kiev (Kyiv) was awesome as well. And sooo cheap. *Really*. The metro though - I have to rip Ben off - it's in the damn core of the Earth. Seriously. I am **NOT** joking. [Check it out](https://www.youtube.com/watch?v=BabVvt0AC7M). Those escalators go at like twice the speed of regular ones, yet it still takes this guy almost 5 minutes to get out. **Insane**.
 
-Onwards to my talk. There are slides below, and video will be up too I guess. I'll update the post when I see it posted. Anyway, I talked about Neo4j and then shown some examples of Cypher via the web UI. First I used the [classic movie db](http://neo4j.com/developer/example-data/) to show how nodes, relationships, and properties actually look/work. They were totally blown away when I double clicked on an actor node and movies and relationships just popped up. After that I presented the [neo4hub](https://github.com/mrfoto/neo4hub) "project" which is more or less just an importer of data from GitHub API to my Neo4j models. We did some cool queries on that, but I have a hard time remembering them. There are some cool examples in the repo so if you're interested go ahead and clone the repo, import data, and click around.
+Onwards to my talk. There are slides and video below. I first talked about Neo4j and then shown some examples of Cypher via the web UI. I used the [classic movie db](http://neo4j.com/developer/example-data/) to show how nodes, relationships, and properties actually look/work. They were totally blown away when I double clicked on an actor node and movies and relationships just popped up. After that I presented the [neo4hub](https://github.com/mrfoto/neo4hub) "project" which is more or less just an importer of data from GitHub API to my Neo4j models. We did some cool queries on that, but I have a hard time remembering them. There are some cool examples in the repo so if you're interested go ahead and clone the repo, import data, and click around. Anyway you can see the live demo in the video so I suggest you watch it. Cause it's really cool :grin:.
 
 I got great responses during and especially after the talk (both immediately and later at after parties). I guess there will be a lot of Ukrainian developers trying out Neo4j in the future. At least for their hobby projects so they get a grip on it. That was my advice actually. By the way - so should **you**. Give Neo4j a try.
 
 Anyway, thanks again to RubyC organizers for letting me do a talk. I had a blast.
 
 ## Video:
-
-*Not available yet*
+<iframe width="width:100%" src="https://www.youtube.com/embed/STtpYx1aUHg" frameborder="0" allowfullscreen></iframe>
 
 ## Slides:
 
