@@ -2,7 +2,7 @@
 layout: post
 category: talks
 title: Weaving a RUG
-excerpt: What is Neo4j and why should you use it.
+excerpt: Why you should start your own user group
 tags: [ruby, thrift, micro services, twofishes, geocoder]
 comments: true
 ---
