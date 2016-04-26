@@ -65,3 +65,8 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+// Bigfoot
+$(function() {
+  $.bigfoot();
+});
