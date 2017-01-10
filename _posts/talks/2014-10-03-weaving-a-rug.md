@@ -17,7 +17,7 @@ A lightning talk I gave at [ArrrrCamp 2014](http://2014.arrrrcamp.be/) on how to
 
 <script async class="speakerdeck-embed" data-id="536e6090305d013297af32228b43df58" src="//speakerdeck.com/assets/embed.js"></script>
 
-##Further watching:
+## Further watching:
 
 - [Herding Cats : Lessons Learned Organizing User Groups by Shawn Biddle](http://www.youtube.com/watch?v=IisHwQb9sQU)
 - [Act Locally - Think Globally by PJ Hagerty](http://www.youtube.com/watch?v=O8IzXwNDtqA)
