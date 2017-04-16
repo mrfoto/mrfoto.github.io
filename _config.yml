@@ -2,7 +2,8 @@
 
 title: Miha Rekar
 locale: en_US
-url: http://mr.si
+url: https://mr.si
+enforce_ssl: mr.si
 
 # Jekyll configuration
 

@@ -6,7 +6,7 @@ share: false
 image:
   feature: features/nicky-romero.jpg
   credit: Miha Rekar - Nicky Romero @ Ultra 2014
-  creditlink: http://mr.si/
+  creditlink: https://mr.si/
 ---
 
 ### Short Bio

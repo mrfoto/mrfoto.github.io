@@ -1,4 +1,4 @@
-# [Miha Rekar](http://mr.si/)
+# [Miha Rekar](https://mr.si/)
 
 I got tired with my website being in constant WIP so I just forked a theme and made it a GitHub page.
 
