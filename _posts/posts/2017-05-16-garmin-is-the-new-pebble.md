@@ -45,7 +45,7 @@ After much copy/pasting, hacking, and cursing over the weekend I finally made so
 
 <figure>
   <a href="https://apps.garmin.com/en-US/apps/6b9d2d26-d746-4377-830e-83422e3df45b">
-    <img src="/images/posts/2017-05-16-forecast-line.png" title="Forecast Line">
+    <img src="/images/posts/2017-05-16-forecast-line.gif" title="Forecast Line">
   </a>
 </figure>
 
