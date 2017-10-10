@@ -79,6 +79,8 @@ Pants-wise I swear by [**CW-X**](http://cw-x.com/) **Stabilyx 3/4 tights** for t
 
 We've already established I'm an _On fanboy_ so of course I bought their [Running Shorts](https://www.on-running.com/en-us/products/hybrid-shorts-black-m). The idea of 2-part pants is great but unfortunately I **can not recommend** those. I first got them in the M size and I couldn't even get the inner part past my knees while the outer part was too loose. I exchanged them for a bigger L size and the inner part is still way too tight but the outer is even looser. I don't know what they sized it on but it's completely off.
 
+When it comes to running socks I've tried so many brands I've lost count. But the only one that I regularly use is [CEP](https://www.cepsports.com/). I don't like calf compression so I only own the below-the-ankle ones. But god are they amazing. I've never once had blisters in them no matter the weather or the newness of the shoe.
+
 ## Eatables 🍌
 
 I'll keep this one short. For the long runs/races I prefer [**Gu Energy**](https://guenergy.com/) gels. I've tried many brands and flavors but these are the only ones that not only deliver the energy I need but actually taste good. My favorites? Salted Caramel, Tri-Berry, and Maple Bacon 🥓️.
