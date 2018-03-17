@@ -11,7 +11,7 @@ image:
 
 ### Short Bio
 
-I used to be a PHP Developer. Then I saw the light at the end of the tunnel and that light was **Ruby**. I wanted to share this revelation so I started [**Slovenia Ruby User Group**](http://www.rug.si/). When I'm not programming or organizing I like to give talks, make coffee, take photos[^1], and run. Not necessarily at once.
+I used to be a PHP Developer. Then I saw the light at the end of the tunnel and that light was **Ruby**. I wanted to share this revelation so I started [**Slovenia Ruby User Group**](http://www.rug.si/). When I'm not programming or organizing I like to [podcast](http://parallelpassion.com/), give talks, make coffee, take photos[^1], and run. Not necessarily at once.
 
 ### Photos[^2]
 
