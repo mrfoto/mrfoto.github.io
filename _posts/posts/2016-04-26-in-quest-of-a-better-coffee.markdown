@@ -57,7 +57,7 @@ Soon thereafter I became aware of the grind inconsistencies so I've upgraded to 
 
 That was and is more or less my setup for producing excellent coffee at home. It's also my recommendation for anyone that wants to experience better coffee. Aeropress, Baratza Encore, and ideally a variable temperature kettle. Along with some high quality coffee beans this will produce the best coffee you ever had.
 
-As far as the coffee beans go 3rd wave is slowly hitting Slovenia as well. Besides aforementioned Escobar we have [moderna](https://www.facebook.com/kavarnamoderna/), [Buna](http://www.buna.si/), [Iconic](http://www.coffeeiconic.com/), and [Coronini](https://www.facebook.com/Coroninicafe). But the best way to get truly high quality beans is still to order from abroad. My preferred way to do that is [The Coffee Roasters](http://thecoffeeroasters.co.uk/pages/subscription-service) coffee subscription[^9]. It's completely personalized and the flavors coffee can deliver blow me away almost every month.
+As far as the coffee beans go 3rd wave is slowly hitting Slovenia as well. Besides aforementioned Escobar we have [moderna](https://www.facebook.com/kavarnamoderna/), [Buna](http://www.buna.si/), [Iconic](http://www.coffeeiconic.com/), and [Coronini](https://www.facebook.com/Coroninicafe). But the best way to get truly high quality beans is still to order from abroad. My preferred way to do that is [The Coffee Roasters](https://thecoffeeroasters.co.uk/?ref=miha.rekar) coffee subscription. It's completely personalized and the flavors coffee can deliver blow me away almost every month.
 
 You know how above I said that I have "more or less" the same setup today? There was one notable addition to the setup lately and it changed everything. *Again*. Here's a hint:
 
@@ -67,7 +67,7 @@ You know how above I said that I have "more or less" the same setup today? There
   </a>
 </figure>
 
-Yup, I got an espresso machine. I wanted to get one ever since I had that first sip of coffee in Portland and was unable to get similar coffee in Slovenia. I've read countless forum posts, watched way too many YouTube videos[^10], and finally settled on [Izzo Alex Duetto](http://www.alexduetto.com/). Main reasons being dual boiler system, PID, rotary pump, E61 group, and relative affordability. If these words don't mean anything to you, don't worry. I've been living in a coffee forum bubble where this is all that matters.
+Yup, I got an espresso machine. I wanted to get one ever since I had that first sip of coffee in Portland and was unable to get similar coffee in Slovenia. I've read countless forum posts, watched way too many YouTube videos[^9], and finally settled on [Izzo Alex Duetto](http://www.alexduetto.com/). Main reasons being dual boiler system, PID, rotary pump, E61 group, and relative affordability. If these words don't mean anything to you, don't worry. I've been living in a coffee forum bubble where this is all that matters.
 
 Making an espresso is **much harder** than Aeropress or any other method. So many things can go wrong, so many variables must be *just right*. I've spent a lot of time on YouTube again, and I have to thank [European Coffee Trip](http://europeancoffeetrip.com/) for the fantastic [Learn Coffee with Gwilym](https://youtu.be/DdGKesjMMxg?list=PLtil0MLa0-7vNg_ovLcSHDT1O0pbCPuPM) series.
 
@@ -83,5 +83,4 @@ With all that said I would **not recommend** anyone to get into home espresso. U
 [^6]: Something like Cortado or Gibraltar - basically a small cup single shot latte
 [^7]: Temperature, grind size, time, and coffee to water ratio
 [^8]: Compared to anything I had before
-[^9]: Use referral code `miha.rekar` to get a discount :wink:
-[^10]: Damn you, [Prima Coffee Equipment](https://www.youtube.com/user/primacoffeeequipment) and [Seattle Coffee Gear](https://www.youtube.com/user/SeattleCoffeeGear)
+[^9]: Damn you, [Prima Coffee Equipment](https://www.youtube.com/user/primacoffeeequipment) and [Seattle Coffee Gear](https://www.youtube.com/user/SeattleCoffeeGear)
