@@ -22,7 +22,7 @@ I got great responses during and especially after the talk (both immediately and
 Anyway, thanks again to RubyC organizers for letting me do a talk. I had a blast.
 
 ## Video:
-<iframe width="width:100%" src="https://www.youtube.com/embed/STtpYx1aUHg" frameborder="0" allowfullscreen></iframe>
+<iframe width="width:100%" src="https://www.youtube.com/embed/z6Q1G0hnJPw" frameborder="0" allowfullscreen></iframe>
 
 ## Slides:
 
