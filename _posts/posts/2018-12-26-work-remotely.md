@@ -2,14 +2,14 @@
 layout: post
 category: posts
 title: So you want to work remotely, huh?
-excerpt: Why would you start working remotely, and how would you do it?
+excerpt: Why would you start working remotely and how would you do it
 tags: [remote, work, ergonomics, resolution, reflection, new year, interruptions, cabin fever, productivity]
 comments: true
 ---
 
 As a year is coming to a close it usually triggers 2 things: old year’s **reflections** and new year’s **resolutions**. For most	 of us both of them involve our professional work. And one of the things that is gaining more and more popularity in these lists is remote work.
 
-I’ve been lucky enough to practice it for **over 4 years** already and in that time I’ve learnt a few things. What works, what doesn’t, why would you do it, why wouldn’t you, how would you do it,…. I also [spoke about it](/talks/2018/11/15/software-developers-are-people-too/) recently and got a ton of questions and emails afterwards. So I decided to write those talk points and conversations down and have it published for the whole world to consume.
+I’ve been lucky enough to practice it for **over 4 years** already and in that time I’ve learnt a few things. What works, what doesn’t, why would you do it, why wouldn’t you, how would you do it,…. I also [spoke about it](/talks/2018/11/15/software-developers-are-people-too/) recently and got a ton of questions and emails afterwards. So I decided to write down those talk points and conversations and have them published for the whole world to consume.
 
 ## Why would you work remotely
 
@@ -29,7 +29,7 @@ Another things that **greatly** bothers me is commute. And it’s not just the d
 
 ## How to start working remotely
 
-There are 2 main options really: **quit your job** and find a new remote one[^2] or **convince your current lead/manager** to give remote a shot. In the latter case I can give you some tips.
+There are 2 main options: **quit your job** and find a new remote one[^2] or **convince your current lead/manager** to give remote a shot. In the latter case I can give you some tips.
 
 **First**: show them this blog post, especially the interruption comic.
 
@@ -41,17 +41,17 @@ If you are a team lead or a manager and want to give remote a try I’ll only gi
 
 ## Working from home
 
-This is _my poison_. This is what works best _for me_. This is where I have the most experience. This does not mean it is how **you** have to work remotely, but if you want to I can share my experiences.
+This is _my poison_. This is what works best **for me**. This is where I have the most experience. This does not mean it is how **you** have to work remotely, but if you want to I can share my experiences.
 
-The first and arguably the most important lesson: **separate work from the rest of your life**. Either by having a dedicated room or a part of another room where you set up _the office_. If you do not have the space to do so in your apartment forget about working from home. And I’m not even talking about _slacking_ all the time - it’ll be the _opposite_. You’ll have a very hard time not to work crazy hours which will lead to **burnout**[^3]. It’s just too easy to watch TV and grab a laptop when ads show up. Then you just _quickly_ check email and Slack, and just like that it’s 2 hours later.
+The first and arguably the most important lesson: **separate work from the rest of your life**. Either by having a dedicated room or a part of another room where you set up _the office_. If you do not have the space to do so in your apartment forget about working from home. And I’m not even talking about _slacking_ all the time - it’ll be the _opposite_. You’ll have a hard time not to work crazy hours which will lead to **burnout**[^3]. It’s just too easy to watch TV and grab a laptop when ads show up. Then you just _quickly_ check email and Slack, and just like that it’s 2 hours later.
 
-**Ergonomics matter**. They matter **a lot**. Get yourself as good of an office chair as possible. All of the expensive ones come with 10+ year warranty so when you divide its price over years of usage it’s really not that expensive. I bought [Herman Miller Aeron](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/) in 2012 and at that time it cost about as much as I made in a month. Almost 7 years later it still looks like new and it’s hands down one of the best purchases I ever made. For my health and for the look of the office.
+**Ergonomics matter**. They matter **a lot**. Get yourself as good of an office chair as possible. All of the expensive ones come with 10+ year warranty so when you divide its price over years of usage it’s not that expensive. I bought [Herman Miller Aeron](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/) in 2012 and at that time it cost about as much as I made in a month. Almost 7 years later it still looks like new and it’s hands down one of the best purchases I ever made. For my health and for the look of the office.
 
 When buying a chair the most important thing is that you **try it out**. Not for *15 seconds* at the salon, but for *at least a week* at home. All of the respectable dealers and importers[^4] will be happy to lend you a chair to try out. There are a ton of “best office chair” lists on the internet so I’m not going to go into that. But you can’t go wrong by starting with [Herman Miller](https://www.hermanmiller.com/) or [Steelcase](https://www.steelcase.com/) lineup.
 
 Another thing that made a huge improvement in my ergonomics lately is a **standing desk**. You don’t have to go full hipster like I did with [Ergochord](https://ergochord.com), but cycling trough sit/stand position during the day really helps. Not just with my posture and back muscles, but it also helps me think. I avoided this for too long but now I’m writing it here so you won’t.
 
-**Air quality**. I didn’t pay much attention to this for too long. I had really dry air so I had a humidifier for a while, but that’s really all I cared about. But a while back I got an [Awair](https://getawair.com/)[^5] and now I keep a very close eye on all the other factors like temperature, CO<sub>2</sub>, VOC, and dust levels. You wouldn’t drink dirty water so why would you breathe dirty air? It makes a **tremendous difference** in my ability to *obtain* and *hold* focus.
+**Air quality**. I didn’t pay much attention to this for too long. I had super dry air so I had a humidifier for a while, but that’s all I cared about. But a while back I got an [Awair](https://getawair.com/)[^5] and now I keep a close eye on all the other factors like temperature, CO<sub>2</sub>, VOC, and dust levels. You wouldn’t drink dirty water so why would you breathe dirty air? It makes a **tremendous difference** in my ability to *obtain* and *hold* focus.
 
 Last, but certainly not least, **get good hardware**. Now obviously I’m an _Apple fanatic_ and can talk for hours how the *iMac Pro* is hands down the best thing that came out of that company in the past 10 years. Yet you will never hear me say that you should use their keyboards or mice. Especially Magic Mouse should not be used by anyone. It’s everything wrong with Apple in one product: form over function. The only thing that is _magic_ about it is that its usage is detrimental to health and I’m sure is causing RSI issues for a lot of people.
 
