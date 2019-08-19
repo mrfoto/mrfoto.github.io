@@ -17,9 +17,15 @@ h2 {
 }
 h3 {
 	@include font-size(24);
+	a {
+		text-decoration: underline;
+	}
 }
 h4 {
 	@include font-size(18);
+	a {
+		text-decoration: underline;
+	}
 }
 h5 {
 	@include font-size(16);
