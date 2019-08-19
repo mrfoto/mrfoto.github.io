@@ -5,6 +5,10 @@ title: Summer of Rereading
 excerpt: My favorite books that I think everyone should read
 tags: [book, summer, books, reading, rereading, best of, list, top 5]
 comments: true
+image:
+  feature: features/books-beach.jpg
+  credit: Link Hoang
+  creditlink: https://unsplash.com/@linkhoang
 ---
 
 I was never a big reader. I read what I had to. That’s probably because of _rewards for reading_ that were given to us as kids, but we’ll get to that later. I read a lone book here and there if it was recommended multiple times and it sounded enticing. But I never read a lot.
