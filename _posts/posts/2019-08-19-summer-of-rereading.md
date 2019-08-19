@@ -19,7 +19,7 @@ So, naturally, people started asking me for book recommendations. And while I re
 
 I’m delighted to say that they all measured up to the hype, and many of them gave me new insights I have either forgotten (or missed) on the first read. However, I did make one change to the list but don't worry, the post includes honorable mentions as well.
 
-### 1. [Punished by Rewards](https://www.amazon.com/o/ASIN/0618001816/parpaspod-20) by Alfie Kohn
+### 1. [Punished by Rewards](https://www.amazon.com/o/ASIN/132845052X/parpaspod-20) by Alfie Kohn
 
 This is an absolute eye-opener of a book. It was mind-blowing the first time I read it and it was equally mind-blowing all these years later. The main point of the book? **Rewards don’t work**. Read that sentence again. I know what you’re thinking: _WTF, of course they work_. Well, turns out, they don’t. Not if you want anything but short-time obedience[^a038].
 
