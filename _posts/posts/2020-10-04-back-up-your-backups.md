@@ -27,15 +27,15 @@ I started getting conscious about the way I back up way back when I was starting
 
 Back then I bought a Drobo Gen2, put 4 drives in, and copied all my photos there. I then took another drive, and copied all the photos up to that point to it, and took it to my grandparents home. This worked well, but I wasn’t completely satisfied, since that last drive wasn’t being updated at all. So, I was still quite exposed.
 
-Then I moved to Ljubljana, and got access to a fast fiber network. One of the first things I got was a [Backblaze subscription](https://secure.backblaze.com/r/01gg2v) — **unlimited online backup** for $60/Computer/Year to back up. A bargain for a peace of mind. This took care of that final check. Now all my files are on an offsite location and always up to date.
+Then I moved to Ljubljana, and got access to a fast fiber network. One of the first things I got was a [Backblaze subscription](https://secure.backblaze.com/r/01gg2v) — **unlimited online backup** for $60/Computer/Year. A bargain for a peace of mind. This took care of that final check. Now all my files are on an offsite location and always up to date.
 
-I also upgraded to [Drobo 5Dt](https://www.drobo.com/storage-products/5Dt/) because I wanted to put in another drive and the Gen2 was getting a bit slow for my daily use. So far, so good.
+I also upgraded to [Drobo 5Dt](https://www.drobo.com/storage-products/5Dt/) because I wanted to put in another drive, and the Gen2 was getting a bit slow for my daily use. So far, so good.
 
-## One is none. Turns out: two is none as well.
+## One is none. Turns out: two is none as well. And three. And even four?
 
 It was a calm Friday afternoon on March 27 when my Drobo started making loud noises. Oh-oh. I see a red light. Meaning drive failure. First reaction: panic, cold sweat. But I repeat some stoic thoughts in my head and calm down. Drives fail. It’s normal. That’s why I have a Drobo in the first place.
 
-Then, mere 10 minutes later, another red light. Another dead drive. This…this is not good. This is **bad**. I turn all red and start sweating like crazy. _Knees weak, arms are heavy_. You know the feeling. It’s not a nice one. I keep repeating stoic thoughts, but they don’t have much of an effect on me now. It’s a true showing of how much I still have to learn to practice.
+Then, mere 10 minutes later, another red light. Another dead drive. This…this is not good. This is **bad**. I turn all red myself and start sweating like crazy. _Knees weak, arms are heavy_. You know the feeling. It’s not a nice one. I keep repeating stoic thoughts, but they don’t have much of an effect on me now. It’s a true showing of how much I still have to learn to practice.
 
 My Drobo was configured to handle 2 drive failures. However, the drives that failed were the biggest ones. 2 times 8 TB that I bought together about a year back. But now Drobo was not just in recovery mode, shuffling data around, it was also out of free space. Not good. **Not good**.
 
@@ -45,7 +45,7 @@ My Drobo was configured to handle 2 drive failures. However, the drives that fai
 
 It depends on when (or where) you’re reading this, but I did not write that date just for poetic reasons. It has a meaning. Slovenia was in full COVID-19 lockdown mode. Everything was closed. Essential grocery stores were the only open businesses. Obtaining a hard drive seemed impossible. I asked Twitter for help. People suggested finding an external HDD, and taking it apart.
 
-I went to a “superstore” chain that was open, and they didn’t have any. The clerk says they stopped selling them a while ago because no one was buying them and assures me none of their other stores have them either. But there was another store on the other side of the town that might have them. And indeed they did. Just 1 left on the shelf. So, I buy it, come home, take it apart, and stuck it in Drobo.
+I went to a “superstore” chain that was open, and they didn’t have any. The clerk said they stopped selling them a while ago because no one was buying them and assures me none of their other stores have them either. But there was another brand store on the other side of the town that might have them. And indeed they did. Just one left on the shelf. So, I buy it, come home, take it apart, and stuck it in the Drobo.
 
 <figure>
   <img src="/images/posts/2020-10-04/taking_apart_a_drive.jpg">
@@ -59,9 +59,9 @@ The next day Drobo is still shuffling data around, but things are looking good. 
   <img src="/images/posts/2020-10-04/drobo_status.jpg">
 </figure>
 
-I go for a run, drive for a lunch, have an overall enjoyable Sunday, and put some Netflix on in the evening. And then I hear some massive disk activity going on again. Nothing to worry, maybe [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS)) is doing its thing. But it doesn’t die down. So, I go and check. **YOU GOTTA BE KIDDING ME**. The new drive that I got just failed and turn red. Drobo is again out of space and trying to move data around to protect it. I panic and turn it off.
+I go for a run, drive for a lunch, have an overall enjoyable Sunday, and put some Netflix on in the evening. Then I hear some massive disk activity going on again. Nothing to worry, maybe [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS)) is doing its thing. But it doesn’t die down. So, I go and check. **YOU GOTTA BE KIDDING ME**. The new drive that I got just failed and turn red. Drobo is again out of space and trying to move data around to protect it. I panic and turn it off.
 
-About a week later I get Seagate replacement drives. They replaced it with refurbished ones. Which is understandable but concerning when it comes to hard drives. Still, I stick them in, turn Drobo back on, and 2 days later everything is green again and I have the same drive capacity as I did before.
+About a week later I get Seagate replacement drives. They replaced it with refurbished ones. Which is understandable, but concerning when it comes to hard drives. Still, I stick them in, turn the Drobo back on, and 2 days later everything is green again and I have the same drive capacity as I did before.
 
 <figure>
   <img src="/images/posts/2020-10-04/drobo_status_back_to_normal.jpg">
@@ -83,18 +83,16 @@ Was it the device? Was it just the hard drives? I’ll never know. But things ha
 
 ## Aftermath
 
-It took a while for me to write this blog post. I needed some emotional distance, I guess. My files were never truly at risk, there was always that _-1_ part option of _3-2-1_ — the Backblaze backup. But that’s more of a “worst-case scenario” option. It’s great to have it, but if possible, you don’t want to use it. I have over 8 TB of data and downloading that is no fun even over a fast fiber connection. Plus you have to have a place where you _download files to_.
+It took a while for me to write this blog post. I needed some emotional distance, I guess. My files were never truly at risk, there was always that _-1_ part option of _3-2-1_ — the Backblaze backup. But that’s more of a “worst-case scenario” option. It’s great to have it, but if possible, you don’t want to use it. I have over 6 TB of data and downloading that is no fun even over a fast fiber connection. Plus you have to have a place where you _download files to_.
 
 ## What is your back up situation like?
 
-Could it handle a single drive failure? What about two? Three? Four in a span of just over a month? What if your apartment floods? Or if your laptop gets stolen? Do you have an off-site drive? When was the last time you updated the data there?
+Could you handle a single drive failure? What about two? Three? Four in a span of just over a month? What if your apartment floods? Or if your laptop gets stolen? Do you have an off-site drive? When was the last time you updated the data there?
 
 Digital data doesn’t take any physical space but it can hold immense emotional value. You’d pay **a lot of money** to get lost photos of your kid back. But you can protect them for a fraction of that today. Hard dives have gotten extremely cheap. [Backblaze](#) is not expensive either. Don’t let your penny-pinching today make you pound-foolish in the future.
 
 What happened to me is extremely unlikely. But it can happen. It did happen. I was prepared[^3]. Are you?
 
 [^1]:	Smartphones are computers too. They’re [more powerful as well](https://twitter.com/dhh/status/1174802413548474368) 😅
-
-[^2]:	Hard disks (and pretty much all other devices) follow a U shaped failure rate. They either die when they’re brand new, or they die after they’ve been at it for a while.
-
-[^3]:	physically, not emotionally
+[^2]:	Hard disks (and pretty much all other devices) follow a U shaped failure rate. They either die when they’re brand new, or they die after they’ve been at it for a long timee.
+[^3]:	physically, not emotionally though
