@@ -32,7 +32,7 @@ owner:
   email: info@mr.si
   disqus-shortname: miharekar
   twitter: MihaRekar
-  facebook: rekar
+  facebook: miha.rekar.photography
   google:
     analytics: UA-356422-1
     verify:
@@ -40,12 +40,9 @@ owner:
     ad-slot:
   bing-verify:
   github: miharekar
-  stackoverflow: 527840/miha-rekar
   linkedin: miha-rekar
   instagram: MihaRekar
-  foursquare: mr_foto
   youtube: MihaRekar
-  soundcloud: mr-foto
   speakerdeck: mrfoto
 
 include: [".htaccess"]
